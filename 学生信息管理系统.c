@@ -1,4 +1,4 @@
-``` c
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
@@ -1983,4 +1983,3 @@ void read_lesson()
 	getch();
 	Caozuowei();
 }
-```
